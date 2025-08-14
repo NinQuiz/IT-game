@@ -1,0 +1,13 @@
+//// What is the capital of France?
+/// Paris
+/// London
+/// Rome
+/// Berlin
+// Paris
+
+//// Which planet is known as the Red Planet?
+/// Earth
+/// Mars
+/// Jupiter
+/// Venus
+// Mars
